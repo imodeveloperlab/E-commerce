@@ -85,7 +85,18 @@
 		60E3A36B27C510B5007A4597 /* DSKit in Frameworks */ = {isa = PBXBuildFile; productRef = 60E3A36A27C510B5007A4597 /* DSKit */; };
 		60E3A36D27C510B5007A4597 /* DSKitCalendar in Frameworks */ = {isa = PBXBuildFile; productRef = 60E3A36C27C510B5007A4597 /* DSKitCalendar */; };
 		60E3A36F27C510B5007A4597 /* DSKitFakery in Frameworks */ = {isa = PBXBuildFile; productRef = 60E3A36E27C510B5007A4597 /* DSKitFakery */; };
+		60E3A38527C51B83007A4597 /* EcommerceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E3A38427C51B83007A4597 /* EcommerceTests.swift */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		60E3A38627C51B83007A4597 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 60CE873127B55BB40084493C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 60CE873827B55BB40084493C;
+			remoteInfo = Ecommerce;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		60CE873927B55BB40084493C /* Ecommerce.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ecommerce.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -163,6 +174,8 @@
 		60CE87D827B55DA50084493C /* UIImage+Helpers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Helpers.swift"; sourceTree = "<group>"; };
 		60D4E11427C4D51B006DC65A /* DarkAppearance.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DarkAppearance.swift; sourceTree = "<group>"; };
 		60D4E11627C4D673006DC65A /* ShopAppearance.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShopAppearance.swift; sourceTree = "<group>"; };
+		60E3A38227C51B83007A4597 /* EcommerceTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EcommerceTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		60E3A38427C51B83007A4597 /* EcommerceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EcommerceTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -178,6 +191,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		60E3A37F27C51B83007A4597 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -185,6 +205,7 @@
 			isa = PBXGroup;
 			children = (
 				60CE873B27B55BB40084493C /* Ecommerce */,
+				60E3A38327C51B83007A4597 /* EcommerceTests */,
 				60CE873A27B55BB40084493C /* Products */,
 				60CE87CD27B55C4A0084493C /* Frameworks */,
 			);
@@ -194,6 +215,7 @@
 			isa = PBXGroup;
 			children = (
 				60CE873927B55BB40084493C /* Ecommerce.app */,
+				60E3A38227C51B83007A4597 /* EcommerceTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -294,6 +316,14 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		60E3A38327C51B83007A4597 /* EcommerceTests */ = {
+			isa = PBXGroup;
+			children = (
+				60E3A38427C51B83007A4597 /* EcommerceTests.swift */,
+			);
+			path = EcommerceTests;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -321,6 +351,24 @@
 			productReference = 60CE873927B55BB40084493C /* Ecommerce.app */;
 			productType = "com.apple.product-type.application";
 		};
+		60E3A38127C51B83007A4597 /* EcommerceTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 60E3A38A27C51B83007A4597 /* Build configuration list for PBXNativeTarget "EcommerceTests" */;
+			buildPhases = (
+				60E3A37E27C51B83007A4597 /* Sources */,
+				60E3A37F27C51B83007A4597 /* Frameworks */,
+				60E3A38027C51B83007A4597 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				60E3A38727C51B83007A4597 /* PBXTargetDependency */,
+			);
+			name = EcommerceTests;
+			productName = EcommerceTests;
+			productReference = 60E3A38227C51B83007A4597 /* EcommerceTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -333,6 +381,10 @@
 				TargetAttributes = {
 					60CE873827B55BB40084493C = {
 						CreatedOnToolsVersion = 13.2.1;
+					};
+					60E3A38127C51B83007A4597 = {
+						CreatedOnToolsVersion = 13.2.1;
+						TestTargetID = 60CE873827B55BB40084493C;
 					};
 				};
 			};
@@ -353,6 +405,7 @@
 			projectRoot = "";
 			targets = (
 				60CE873827B55BB40084493C /* Ecommerce */,
+				60E3A38127C51B83007A4597 /* EcommerceTests */,
 			);
 		};
 /* End PBXProject section */
@@ -368,6 +421,13 @@
 				60CE87D627B55D450084493C /* SocialMedia.xcassets in Resources */,
 				60CE874627B55BB90084493C /* Assets.xcassets in Resources */,
 				60CE874427B55BB40084493C /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		60E3A38027C51B83007A4597 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -448,7 +508,23 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		60E3A37E27C51B83007A4597 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				60E3A38527C51B83007A4597 /* EcommerceTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		60E3A38727C51B83007A4597 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 60CE873827B55BB40084493C /* Ecommerce */;
+			targetProxy = 60E3A38627C51B83007A4597 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		60CE874227B55BB40084493C /* Main.storyboard */ = {
@@ -642,6 +718,40 @@
 			};
 			name = Release;
 		};
+		60E3A38827C51B83007A4597 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Imodeveloperlab.EcommerceTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ecommerce.app/Ecommerce";
+			};
+			name = Debug;
+		};
+		60E3A38927C51B83007A4597 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Imodeveloperlab.EcommerceTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ecommerce.app/Ecommerce";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -659,6 +769,15 @@
 			buildConfigurations = (
 				60CE874E27B55BB90084493C /* Debug */,
 				60CE874F27B55BB90084493C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		60E3A38A27C51B83007A4597 /* Build configuration list for PBXNativeTarget "EcommerceTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				60E3A38827C51B83007A4597 /* Debug */,
+				60E3A38927C51B83007A4597 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
