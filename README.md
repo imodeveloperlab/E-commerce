@@ -1,4 +1,3 @@
-# E-commerce
 
 <p align="center">
 E-commerce app design template powered by <a href="https://github.com/imodeveloperlab/dskit"> DSKit </a>
