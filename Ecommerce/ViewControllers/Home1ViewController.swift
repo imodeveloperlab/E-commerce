@@ -124,7 +124,7 @@ struct Home1ViewControllerPreview: PreviewProvider {
     
     static var previews: some View {
         Group {
-            PreviewContainer(VC: Home1ViewController(), DarkAppearance()).edgesIgnoringSafeArea(.all)
+            PreviewContainer(VC: Home1ViewController(), BlackToneAppearance()).edgesIgnoringSafeArea(.all)
         }
     }
 }

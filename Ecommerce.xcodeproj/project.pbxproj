@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		418B493B27F61498000B4206 /* Noteworthy.plist in Resources */ = {isa = PBXBuildFile; fileRef = 418B493927F61498000B4206 /* Noteworthy.plist */; };
+		418B493C27F61498000B4206 /* HoeflerText.plist in Resources */ = {isa = PBXBuildFile; fileRef = 418B493A27F61498000B4206 /* HoeflerText.plist */; };
+		418B493E27F6150F000B4206 /* DarkLightAppearance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 418B493D27F6150F000B4206 /* DarkLightAppearance.swift */; };
+		418B494027F6159A000B4206 /* ShopCustomFontAppearance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 418B493F27F6159A000B4206 /* ShopCustomFontAppearance.swift */; };
 		60CE873D27B55BB40084493C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60CE873C27B55BB40084493C /* AppDelegate.swift */; };
 		60CE873F27B55BB40084493C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60CE873E27B55BB40084493C /* SceneDelegate.swift */; };
 		60CE874127B55BB40084493C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60CE874027B55BB40084493C /* ViewController.swift */; };
@@ -80,7 +84,7 @@
 		60CE87D627B55D450084493C /* SocialMedia.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60CE87D327B55D450084493C /* SocialMedia.xcassets */; };
 		60CE87D727B55D450084493C /* Cards.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60CE87D427B55D450084493C /* Cards.xcassets */; };
 		60CE87D927B55DA50084493C /* UIImage+Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60CE87D827B55DA50084493C /* UIImage+Helpers.swift */; };
-		60D4E11527C4D51B006DC65A /* DarkAppearance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60D4E11427C4D51B006DC65A /* DarkAppearance.swift */; };
+		60D4E11527C4D51B006DC65A /* BlackToneAppearance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60D4E11427C4D51B006DC65A /* BlackToneAppearance.swift */; };
 		60D4E11727C4D673006DC65A /* ShopAppearance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60D4E11627C4D673006DC65A /* ShopAppearance.swift */; };
 		60E3A36B27C510B5007A4597 /* DSKit in Frameworks */ = {isa = PBXBuildFile; productRef = 60E3A36A27C510B5007A4597 /* DSKit */; };
 		60E3A36D27C510B5007A4597 /* DSKitCalendar in Frameworks */ = {isa = PBXBuildFile; productRef = 60E3A36C27C510B5007A4597 /* DSKitCalendar */; };
@@ -99,6 +103,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		418B493927F61498000B4206 /* Noteworthy.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Noteworthy.plist; sourceTree = "<group>"; };
+		418B493A27F61498000B4206 /* HoeflerText.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = HoeflerText.plist; sourceTree = "<group>"; };
+		418B493D27F6150F000B4206 /* DarkLightAppearance.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DarkLightAppearance.swift; sourceTree = "<group>"; };
+		418B493F27F6159A000B4206 /* ShopCustomFontAppearance.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShopCustomFontAppearance.swift; sourceTree = "<group>"; };
 		60CE873927B55BB40084493C /* Ecommerce.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ecommerce.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60CE873C27B55BB40084493C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		60CE873E27B55BB40084493C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -172,7 +180,7 @@
 		60CE87D327B55D450084493C /* SocialMedia.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = SocialMedia.xcassets; sourceTree = "<group>"; };
 		60CE87D427B55D450084493C /* Cards.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Cards.xcassets; sourceTree = "<group>"; };
 		60CE87D827B55DA50084493C /* UIImage+Helpers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Helpers.swift"; sourceTree = "<group>"; };
-		60D4E11427C4D51B006DC65A /* DarkAppearance.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DarkAppearance.swift; sourceTree = "<group>"; };
+		60D4E11427C4D51B006DC65A /* BlackToneAppearance.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlackToneAppearance.swift; sourceTree = "<group>"; };
 		60D4E11627C4D673006DC65A /* ShopAppearance.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShopAppearance.swift; sourceTree = "<group>"; };
 		60E3A38227C51B83007A4597 /* EcommerceTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EcommerceTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		60E3A38427C51B83007A4597 /* EcommerceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EcommerceTests.swift; sourceTree = "<group>"; };
@@ -201,6 +209,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		418B493827F61483000B4206 /* CustomFonts */ = {
+			isa = PBXGroup;
+			children = (
+				418B493F27F6159A000B4206 /* ShopCustomFontAppearance.swift */,
+				418B493A27F61498000B4206 /* HoeflerText.plist */,
+				418B493927F61498000B4206 /* Noteworthy.plist */,
+			);
+			path = CustomFonts;
+			sourceTree = "<group>";
+		};
+		418B494127F615DD000B4206 /* Appearances */ = {
+			isa = PBXGroup;
+			children = (
+				60D4E11427C4D51B006DC65A /* BlackToneAppearance.swift */,
+				60D4E11627C4D673006DC65A /* ShopAppearance.swift */,
+				418B493D27F6150F000B4206 /* DarkLightAppearance.swift */,
+				418B493827F61483000B4206 /* CustomFonts */,
+			);
+			path = Appearances;
+			sourceTree = "<group>";
+		};
 		60CE873027B55BB40084493C = {
 			isa = PBXGroup;
 			children = (
@@ -226,8 +255,7 @@
 				60CE873C27B55BB40084493C /* AppDelegate.swift */,
 				60CE873E27B55BB40084493C /* SceneDelegate.swift */,
 				60CE874027B55BB40084493C /* ViewController.swift */,
-				60D4E11427C4D51B006DC65A /* DarkAppearance.swift */,
-				60D4E11627C4D673006DC65A /* ShopAppearance.swift */,
+				418B494127F615DD000B4206 /* Appearances */,
 				60CE875027B55C110084493C /* ViewControllers */,
 				60CE874227B55BB40084493C /* Main.storyboard */,
 				60CE87D427B55D450084493C /* Cards.xcassets */,
@@ -416,9 +444,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				60CE874927B55BB90084493C /* LaunchScreen.storyboard in Resources */,
+				418B493B27F61498000B4206 /* Noteworthy.plist in Resources */,
 				60CE87D727B55D450084493C /* Cards.xcassets in Resources */,
 				60CE87D527B55D450084493C /* PayMethods.xcassets in Resources */,
 				60CE87D627B55D450084493C /* SocialMedia.xcassets in Resources */,
+				418B493C27F61498000B4206 /* HoeflerText.plist in Resources */,
 				60CE874627B55BB90084493C /* Assets.xcassets in Resources */,
 				60CE874427B55BB40084493C /* Main.storyboard in Resources */,
 			);
@@ -453,6 +483,7 @@
 				60CE879627B55C1F0084493C /* Items5ViewController.swift in Sources */,
 				60CE873D27B55BB40084493C /* AppDelegate.swift in Sources */,
 				60CE87BA27B55C200084493C /* SignUp1ViewController.swift in Sources */,
+				418B493E27F6150F000B4206 /* DarkLightAppearance.swift in Sources */,
 				60CE87AE27B55C200084493C /* Shipping1ViewController.swift in Sources */,
 				60CE87C227B55C200084493C /* Home3ViewController.swift in Sources */,
 				60CE87BB27B55C200084493C /* Categories6ViewController.swift in Sources */,
@@ -478,6 +509,7 @@
 				60CE879E27B55C200084493C /* Items6ViewController.swift in Sources */,
 				60CE87C427B55C200084493C /* Search1ViewController.swift in Sources */,
 				60CE87B927B55C200084493C /* Walktrought1ViewController.swift in Sources */,
+				418B494027F6159A000B4206 /* ShopCustomFontAppearance.swift in Sources */,
 				60CE879A27B55C200084493C /* Shipping2ViewController.swift in Sources */,
 				60CE879C27B55C200084493C /* LogIn3ViewController.swift in Sources */,
 				60CE879727B55C200084493C /* ItemsCart4ViewController.swift in Sources */,
@@ -489,7 +521,7 @@
 				60CE87A927B55C200084493C /* Categories1ViewController.swift in Sources */,
 				60CE87BD27B55C200084493C /* ItemDetails4ViewController.swift in Sources */,
 				60CE87A827B55C200084493C /* Feedback1ViewController.swift in Sources */,
-				60D4E11527C4D51B006DC65A /* DarkAppearance.swift in Sources */,
+				60D4E11527C4D51B006DC65A /* BlackToneAppearance.swift in Sources */,
 				60CE87B227B55C200084493C /* Order1ViewController.swift in Sources */,
 				60D4E11727C4D673006DC65A /* ShopAppearance.swift in Sources */,
 				60CE879B27B55C200084493C /* Categories5ViewController.swift in Sources */,

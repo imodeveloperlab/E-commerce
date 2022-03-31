@@ -9,7 +9,7 @@
 import UIKit
 import DSKit
 
-public class DarkAppearance: DSDesignable {
+public class BlackToneAppearance: DSDesignable {
     
     // Appearance title
     public var title: String

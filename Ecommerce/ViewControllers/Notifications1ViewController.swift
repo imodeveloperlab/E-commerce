@@ -105,7 +105,7 @@ struct Notifications1ViewControllerPreview: PreviewProvider {
     
     static var previews: some View {
         Group {
-            PreviewContainer(VC: Notifications1ViewController(), DarkAppearance()).edgesIgnoringSafeArea(.all)
+            PreviewContainer(VC: Notifications1ViewController(), BlackToneAppearance()).edgesIgnoringSafeArea(.all)
         }
     }
 }

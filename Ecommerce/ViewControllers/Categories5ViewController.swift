@@ -165,7 +165,7 @@ struct Categories5ViewControllerPreview: PreviewProvider {
     
     static var previews: some View {
         Group {
-            PreviewContainer(VC: Categories5ViewController(), DarkAppearance()).edgesIgnoringSafeArea(.all)
+            PreviewContainer(VC: Categories5ViewController(), BlackToneAppearance()).edgesIgnoringSafeArea(.all)
         }
     }
 }

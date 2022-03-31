@@ -160,7 +160,7 @@ struct Home2ViewControllerPreview: PreviewProvider {
     
     static var previews: some View {
         Group {
-            PreviewContainer(VC: Home2ViewController(), DarkAppearance()).edgesIgnoringSafeArea(.all)
+            PreviewContainer(VC: Home2ViewController(), BlackToneAppearance()).edgesIgnoringSafeArea(.all)
         }
     }
 }

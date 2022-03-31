@@ -119,7 +119,7 @@ struct SubscriptionPlan1ViewControllerPreview: PreviewProvider {
     
     static var previews: some View {
         Group {
-            PreviewContainer(VC: SubscriptionPlan1ViewController(), DarkAppearance()).edgesIgnoringSafeArea(.all)
+            PreviewContainer(VC: SubscriptionPlan1ViewController(), BlackToneAppearance()).edgesIgnoringSafeArea(.all)
         }
     }
 }

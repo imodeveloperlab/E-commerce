@@ -148,7 +148,7 @@ struct Walktrought1ViewControllerPreview: PreviewProvider {
     
     static var previews: some View {
         Group {
-            PreviewContainer(VC: Walktrought1ViewController(), DarkAppearance()).edgesIgnoringSafeArea(.all)
+            PreviewContainer(VC: Walktrought1ViewController(), BlackToneAppearance()).edgesIgnoringSafeArea(.all)
         }
     }
 }

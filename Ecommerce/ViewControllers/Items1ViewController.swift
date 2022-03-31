@@ -184,7 +184,7 @@ struct Items1ViewControllerPreview: PreviewProvider {
         Group {
             
             let nav = DSNavigationViewController(rootViewController: Items1ViewController())
-            PreviewContainer(VC: nav, DarkAppearance()).edgesIgnoringSafeArea(.all)
+            PreviewContainer(VC: nav, BlackToneAppearance()).edgesIgnoringSafeArea(.all)
         }
     }
 }

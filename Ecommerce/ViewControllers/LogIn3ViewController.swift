@@ -109,7 +109,7 @@ struct LogIn3ViewControllerPreview: PreviewProvider {
     
     static var previews: some View {
         Group {
-            PreviewContainer(VC: LogIn3ViewController(), DarkAppearance()).edgesIgnoringSafeArea(.all)
+            PreviewContainer(VC: LogIn3ViewController(), BlackToneAppearance()).edgesIgnoringSafeArea(.all)
         }
     }
 }

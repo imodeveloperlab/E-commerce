@@ -128,7 +128,7 @@ struct Feedback1ViewControllerPreview: PreviewProvider {
     static var previews: some View {
         Group {
             let nav = DSNavigationViewController(rootViewController: Feedback1ViewController())
-            PreviewContainer(VC: nav, DarkAppearance()).edgesIgnoringSafeArea(.all)
+            PreviewContainer(VC: nav, BlackToneAppearance()).edgesIgnoringSafeArea(.all)
         }
     }
 }

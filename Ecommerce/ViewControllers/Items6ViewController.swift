@@ -173,7 +173,7 @@ struct Items6ViewControllerPreview: PreviewProvider {
         Group {
             
             let nav = DSNavigationViewController(rootViewController: Items6ViewController())
-            PreviewContainer(VC: nav, DarkAppearance()).edgesIgnoringSafeArea(.all)
+            PreviewContainer(VC: nav, BlackToneAppearance()).edgesIgnoringSafeArea(.all)
         }
     }
 }

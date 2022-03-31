@@ -13,8 +13,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
         DSAppearance.shared.main = ShopAppearance()
-        DSAppearance.shared.userInterfaceStyle = .light
+//        DSAppearance.shared.main = BlackToneAppearance()
+//        DSAppearance.shared.main = DarkLightAppearance()
+//        DSAppearance.shared.main = ShopCustomFontAppearance()
+        DSAppearance.shared.userInterfaceStyle = .unspecified
         return true
     }
 

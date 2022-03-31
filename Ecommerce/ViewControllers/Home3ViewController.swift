@@ -171,7 +171,7 @@ struct Home3ViewControllerPreview: PreviewProvider {
     
     static var previews: some View {
         Group {
-            PreviewContainer(VC: Home3ViewController(), DarkAppearance()).edgesIgnoringSafeArea(.all)
+            PreviewContainer(VC: Home3ViewController(), BlackToneAppearance()).edgesIgnoringSafeArea(.all)
         }
     }
 }

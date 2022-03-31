@@ -122,7 +122,7 @@ struct SignUp4ViewControllerPreview: PreviewProvider {
     
     static var previews: some View {
         Group {
-            PreviewContainer(VC: SignUp4ViewController(), DarkAppearance()).edgesIgnoringSafeArea(.all)
+            PreviewContainer(VC: SignUp4ViewController(), BlackToneAppearance()).edgesIgnoringSafeArea(.all)
         }
     }
 }
