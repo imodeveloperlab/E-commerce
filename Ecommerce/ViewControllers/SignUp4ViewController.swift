@@ -75,7 +75,7 @@ class SignUp4ViewController: DSViewController {
     /// - Returns: DSViewModel
     func descriptionModel() -> DSViewModel {
         
-        let composer = DSTextComposer(alignment: .left)
+        let composer = DSTextComposer(alignment: .natural)
         composer.add(type: .headlineWithSize(36),
                      text: "Enter secure\ncode to verify",
                      spacing: 10,

@@ -128,7 +128,7 @@ extension Items5ViewController {
     func product(title: String, description: String, image: URL? = nil) -> DSViewModel {
         
         // Text
-        let composer = DSTextComposer(alignment: .left)
+        let composer = DSTextComposer(alignment: .natural)
         composer.add(type: .headlineWithSize(14), text: title)
         composer.add(type: .subheadline, text: description)
         composer.add(price: DSPrice.random())

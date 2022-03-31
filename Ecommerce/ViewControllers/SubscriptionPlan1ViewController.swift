@@ -39,7 +39,7 @@ open class SubscriptionPlan1ViewController: DSViewController {
         let space2 = DSSpaceVM(type: .custom(20))
         
         // Text
-        let composer = DSTextComposer(alignment: .left)
+        let composer = DSTextComposer(alignment: .natural)
         composer.add(type: .headlineWithSize(36), text: "Subscription\nPlan")
         composer.add(type: .body, text: "Biggest collection\nof news, article & news")
         let text = composer.textViewModel()

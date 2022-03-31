@@ -123,7 +123,7 @@ extension Home3ViewController {
     /// - Returns: DSViewModel
     func discount(title: String, description: String, imageUrl: URL?) -> DSViewModel {
         
-        let composer = DSTextComposer(alignment: .left)
+        let composer = DSTextComposer(alignment: .natural)
         //composer.add(type: .headline, text: title)
         composer.add(type: .subheadline, text: description)
         

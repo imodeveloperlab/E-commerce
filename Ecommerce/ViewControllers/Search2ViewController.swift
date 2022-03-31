@@ -164,7 +164,7 @@ extension Search2ViewController {
     func product(title: String, description: String, image: URL? = nil) -> DSViewModel {
 
         // Text
-        let composer = DSTextComposer(alignment: .left)
+        let composer = DSTextComposer(alignment: .natural)
         composer.add(type: .headlineWithSize(14), text: title)
         composer.add(type: .subheadlineWithSize(11), text: description)
         

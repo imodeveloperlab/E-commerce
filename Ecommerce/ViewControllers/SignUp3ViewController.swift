@@ -65,7 +65,7 @@ class SignUp3ViewController: DSViewController {
     /// - Returns: DSViewModel
     func descriptionModel() -> DSViewModel {
         
-        let composer = DSTextComposer(alignment: .left)
+        let composer = DSTextComposer(alignment: .natural)
         composer.add(type: .headlineWithSize(36),
                      text: "Start with\nphone number",
                      spacing: 10,

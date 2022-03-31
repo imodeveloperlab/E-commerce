@@ -85,7 +85,7 @@ extension ItemsCart2ViewController {
     func product(title: String, description: String, image: URL? = nil, badge: String? = nil) -> DSViewModel {
         
         // Text
-        let composer = DSTextComposer(alignment: .left)
+        let composer = DSTextComposer(alignment: .natural)
         composer.add(type: .headlineWithSize(16), text: title)
         composer.add(type: .subheadline, text: description)
         composer.add(price: DSPrice.random(min: 300, max: 400), spacing: 5)

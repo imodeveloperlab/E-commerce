@@ -186,7 +186,7 @@ extension Order1ViewController {
     func product(title: String, description: String, image: URL? = nil, badge: String? = nil) -> DSViewModel {
         
         // Text
-        let composer = DSTextComposer(alignment: .left)
+        let composer = DSTextComposer(alignment: .natural)
         composer.add(type: .headlineWithSize(15), text: title)
         composer.add(type: .subheadlineWithSize(12), text: description)
         composer.add(price: DSPrice.random())

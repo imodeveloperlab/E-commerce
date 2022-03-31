@@ -44,7 +44,7 @@ class Notifications1ViewController: DSViewController {
         let space2 = DSSpaceVM(type: .custom(50))
         
         // Text
-        let composer = DSTextComposer(alignment: .left)
+        let composer = DSTextComposer(alignment: .natural)
         composer.add(type: .headlineWithSize(36),
                      text: "Turn on\nnotifications",
                      spacing: 10,

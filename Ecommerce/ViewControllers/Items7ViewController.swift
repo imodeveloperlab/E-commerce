@@ -104,7 +104,7 @@ extension Items7ViewController {
     func product(title: String, description: String, image: URL? = nil) -> DSViewModel {
         
         // Text
-        let composer = DSTextComposer(alignment: .left)
+        let composer = DSTextComposer(alignment: .natural)
         composer.add(type: .headlineWithSize(17), text: title)
         composer.add(rating: 4,
                      maximumValue: 5,

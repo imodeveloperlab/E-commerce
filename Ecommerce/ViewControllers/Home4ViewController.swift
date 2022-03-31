@@ -195,7 +195,7 @@ extension Home4ViewController {
     func product(title: String, description: String, imageName: String) -> DSViewModel {
         
         // Composer
-        let composer = DSTextComposer(alignment: .left)
+        let composer = DSTextComposer(alignment: .natural)
         composer.add(type: .headline, text: title)
         composer.add(type: .subheadline, text: description)
         composer.add(price: DSPrice.random())

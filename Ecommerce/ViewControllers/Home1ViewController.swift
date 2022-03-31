@@ -103,7 +103,7 @@ extension Home1ViewController {
     /// - Returns: DSViewModel
     func newArrival(title: String, description: String, imageUrl: URL?) -> DSViewModel {
         
-        let composer = DSTextComposer(alignment: .left)
+        let composer = DSTextComposer(alignment: .natural)
         composer.add(type: .headlineWithSize(15), text: title)
         composer.add(type: .subheadlineWithSize(12), text: description)
         
