@@ -14,13 +14,12 @@
 </p>
 
 <p align="center">
-E-commerce app design template powered by <a href="https://github.com/imodeveloperlab/dskit"> DSKit </a>
+Over 60 UI/UX Interfaces for E-Commerce App design template powered by <a href="https://github.com/imodeveloperlab/dskit"> DSKit </a>
 </p>
 
 <p align="center">
   https://dskit.app/demo-ecommerce
 </p>
-
 
 <table>
     <tr>
