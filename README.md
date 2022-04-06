@@ -10,7 +10,6 @@
     </a>
     <img src="https://img.shields.io/badge/iOS-13+-brightgreen.svg?style=flat" alt="iOS"/>
     <img src="https://circleci.com/gh/imodeveloperlab/dskit/tree/main.svg?style=shield" alt="iOS"/>
-    <img src="https://img.shields.io/github/issues/imodeveloperlab/dskit"/>
 </p>
 
 <p align="center">
