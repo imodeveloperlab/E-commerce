@@ -26,41 +26,6 @@ Over 60 UI/UX Interfaces for E-Commerce App design template powered by <a href="
 
 <table>
     <tr>
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/d0eb01e75ea4a4ceeea79747b253eb0a02cd39fd/f2b4c/images/demo/ecommerce/ecommerce-design10.png" class="img-fluid rounded work-image" alt="e-commerce authentication screen with username and password"></td> 
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/feff35c884052e064a67de161410e975371a604d/aa9f1/images/demo/ecommerce/ecommerce-design2.png" class="img-fluid rounded work-image" alt="e-commerce authentication screen with facebook"></td>
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/610484d47089a864fd60b17ea3a30430862e435a/66e5d/images/demo/ecommerce/ecommerce-design5.png" class="img-fluid rounded work-image" alt="e-commerce authentication screen with twitter, facebook"></td>
-    </tr>
-    <tr>
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/f447ff80168ddbfc0d28f2837000c6e15d9a3f01/6c845/images/demo/ecommerce/ecommerce-design1.png" class="img-fluid rounded work-image" alt="e-commerce authentication screen, design"></td> 
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/c3f55b5cc7c1d14de3fe14cda2d5fed26abe7456/c3aae/images/demo/ecommerce/ecommerce-design7.png" class="img-fluid rounded work-image" alt="ios ecommerce app form, facebook, design"></td>
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/d8ad46fa63d8a401808aac3eda62903daf008e1f/0f1d1/images/demo/ecommerce/ecommerce-design3.png" class="img-fluid rounded work-image" alt="ios ecommerce app form, user name, email, password, design"></td>
-    </tr>
-    <tr>
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/9eb10251364068e61f1c939f7027cdb26d9b7772/fb404/images/demo/ecommerce/ecommerce-design9.png" class="img-fluid rounded work-image" alt="ios ecommerce app form, phone number, design"></td> 
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/897236e7b527e931ac380694c67784c00346efc1/8b53b/images/demo/ecommerce/ecommerce-design8.png" class="img-fluid rounded work-image" alt="ios ecommerce app, confirmation code, design"></td>
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/cd894dad0dc7ed4fc1a7f7df8fc5ebacfc35e902/2ee65/images/demo/ecommerce/ecommerce-design13.png" class="img-fluid rounded work-image" alt="ios ecommerce app, enable notifications"></td>
-    </tr>
-    <tr>
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/5333c7e539d92e02905ec37776db776cc3f4a562/65c21/images/demo/ecommerce/ecommerce-design12.png" class="img-fluid rounded work-image" alt="e-commerce, user profile"></td> 
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/1d9b8da6dd6e11e959472c8ec6bb110516bb9c14/3104e/images/demo/ecommerce/ecommerce-design6.png" class="img-fluid rounded work-image" alt="e-commerce, edit user profile"></td>
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/d866ca29822181a047bd5178ade4d17289c97e4f/aa58d/images/demo/ecommerce/ecommerce-design4.png" class="img-fluid rounded work-image" alt="e-commerce, update user profile"></td>
-    </tr>
-    <tr>
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/d67d0341f9356163e474394797237e7fee8c31d0/3198e/images/demo/ecommerce/ecommerce-design15.png" class="img-fluid rounded work-image" alt="e-commerce, about us"></td> 
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/7589e713f7519e6006a45f73203074315b212b5f/bcc5f/images/demo/ecommerce/ecommerce-design63.png" class="img-fluid rounded work-image" alt="e-commerce, about us, feedback"></td>
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/e0bb099524b1a16313eda9a8bc195b37512570e2/e8659/images/demo/ecommerce/ecommerce-design62.png" class="img-fluid rounded work-image" alt="e-commerce, contacts"></td>
-    </tr>
-    <tr>
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/464a002c2ca9644f973e1e8fc6e10c12f212e35b/7e4e1/images/demo/ecommerce/ecommerce-design11.png" class="img-fluid rounded work-image" alt="e-commerce, feedback form"></td> 
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/6943d55c808994c9e800ed25daf7ac00a8822b78/fa9e7/images/demo/ecommerce/ecommerce-design14.png" class="img-fluid rounded work-image" alt="e-commerce, about us"></td>
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/62bf3ba93a3f63ba62745bfd44220ee865d96a2e/0526d/images/demo/ecommerce/ecommerce-design55.png" class="img-fluid rounded work-image" alt="e-commerce, subscription plan"></td>
-    </tr>
-    <tr>
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/cfcf24fed4234f4b6305c0b702073b8f4b7b7bed/103d5/images/demo/ecommerce/ecommerce-design17.png" class="img-fluid rounded work-image" alt="e-commerce, walktrought"></td> 
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/a202289bb3e7fb16bcb4d8f5446a4992f24a0d75/3930b/images/demo/ecommerce/ecommerce-design64.png" class="img-fluid rounded work-image" alt="e-commerce, walktrought"></td>
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/c9445b54215c7a3253fdc54172e77c494904784b/860ca/images/demo/ecommerce/ecommerce-design16.png" class="img-fluid rounded work-image" alt="e-commerce, walktrought"></td>
-    </tr>
-    <tr>
       <td><img src="https://d33wubrfki0l68.cloudfront.net/a7e99e6de427485a3281a9d0b468e3f1404c4fc4/b7d72/images/demo/ecommerce/ecommerce-design18.png" class="img-fluid rounded work-image" alt="e-commerce, home, sneakers, products"></td> 
       <td><img src="https://d33wubrfki0l68.cloudfront.net/7ddb3194daf93b4797f6fd16c52742f1ec518d1a/3e1ff/images/demo/ecommerce/ecommerce-design19.png" class="img-fluid rounded work-image" alt="e-commerce, home, sneakers, products"></td>
       <td><img src="https://d33wubrfki0l68.cloudfront.net/7fc5a774ae091677f957c45ae14fc2aae34c1523/21740/images/demo/ecommerce/ecommerce-design20.png" class="img-fluid rounded work-image" alt="e-commerce, home, sneakers, products"></td>
@@ -129,5 +94,40 @@ Over 60 UI/UX Interfaces for E-Commerce App design template powered by <a href="
       <td><img src="https://d33wubrfki0l68.cloudfront.net/0bda56b5a254a85a2118b067db9da0d81b532ba6/f4c17/images/demo/ecommerce/ecommerce-design57.png" class="img-fluid rounded work-image" alt="e-commerce, order details 2"></td> 
       <td><img src="https://d33wubrfki0l68.cloudfront.net/a37f93e66cb180ab1c0bd8beb15d37e43ecf4aac/a31b1/images/demo/ecommerce/ecommerce-design60.png" class="img-fluid rounded work-image" alt="e-commerce, order details"></td>
       <td><img src="https://d33wubrfki0l68.cloudfront.net/2dcac4f260fc6281ac2ec9bfa6f429f6a113b229/121a5/images/demo/ecommerce/ecommerce-design61.png" class="img-fluid rounded work-image" alt="e-commerce, order details"></td>
+    </tr>
+    <tr>
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/d0eb01e75ea4a4ceeea79747b253eb0a02cd39fd/f2b4c/images/demo/ecommerce/ecommerce-design10.png" class="img-fluid rounded work-image" alt="e-commerce authentication screen with username and password"></td> 
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/feff35c884052e064a67de161410e975371a604d/aa9f1/images/demo/ecommerce/ecommerce-design2.png" class="img-fluid rounded work-image" alt="e-commerce authentication screen with facebook"></td>
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/610484d47089a864fd60b17ea3a30430862e435a/66e5d/images/demo/ecommerce/ecommerce-design5.png" class="img-fluid rounded work-image" alt="e-commerce authentication screen with twitter, facebook"></td>
+    </tr>
+    <tr>
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/f447ff80168ddbfc0d28f2837000c6e15d9a3f01/6c845/images/demo/ecommerce/ecommerce-design1.png" class="img-fluid rounded work-image" alt="e-commerce authentication screen, design"></td> 
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/c3f55b5cc7c1d14de3fe14cda2d5fed26abe7456/c3aae/images/demo/ecommerce/ecommerce-design7.png" class="img-fluid rounded work-image" alt="ios ecommerce app form, facebook, design"></td>
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/d8ad46fa63d8a401808aac3eda62903daf008e1f/0f1d1/images/demo/ecommerce/ecommerce-design3.png" class="img-fluid rounded work-image" alt="ios ecommerce app form, user name, email, password, design"></td>
+    </tr>
+    <tr>
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/9eb10251364068e61f1c939f7027cdb26d9b7772/fb404/images/demo/ecommerce/ecommerce-design9.png" class="img-fluid rounded work-image" alt="ios ecommerce app form, phone number, design"></td> 
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/897236e7b527e931ac380694c67784c00346efc1/8b53b/images/demo/ecommerce/ecommerce-design8.png" class="img-fluid rounded work-image" alt="ios ecommerce app, confirmation code, design"></td>
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/cd894dad0dc7ed4fc1a7f7df8fc5ebacfc35e902/2ee65/images/demo/ecommerce/ecommerce-design13.png" class="img-fluid rounded work-image" alt="ios ecommerce app, enable notifications"></td>
+    </tr>
+    <tr>
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/5333c7e539d92e02905ec37776db776cc3f4a562/65c21/images/demo/ecommerce/ecommerce-design12.png" class="img-fluid rounded work-image" alt="e-commerce, user profile"></td> 
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/1d9b8da6dd6e11e959472c8ec6bb110516bb9c14/3104e/images/demo/ecommerce/ecommerce-design6.png" class="img-fluid rounded work-image" alt="e-commerce, edit user profile"></td>
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/d866ca29822181a047bd5178ade4d17289c97e4f/aa58d/images/demo/ecommerce/ecommerce-design4.png" class="img-fluid rounded work-image" alt="e-commerce, update user profile"></td>
+    </tr>
+    <tr>
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/d67d0341f9356163e474394797237e7fee8c31d0/3198e/images/demo/ecommerce/ecommerce-design15.png" class="img-fluid rounded work-image" alt="e-commerce, about us"></td> 
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/7589e713f7519e6006a45f73203074315b212b5f/bcc5f/images/demo/ecommerce/ecommerce-design63.png" class="img-fluid rounded work-image" alt="e-commerce, about us, feedback"></td>
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/e0bb099524b1a16313eda9a8bc195b37512570e2/e8659/images/demo/ecommerce/ecommerce-design62.png" class="img-fluid rounded work-image" alt="e-commerce, contacts"></td>
+    </tr>
+    <tr>
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/464a002c2ca9644f973e1e8fc6e10c12f212e35b/7e4e1/images/demo/ecommerce/ecommerce-design11.png" class="img-fluid rounded work-image" alt="e-commerce, feedback form"></td> 
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/6943d55c808994c9e800ed25daf7ac00a8822b78/fa9e7/images/demo/ecommerce/ecommerce-design14.png" class="img-fluid rounded work-image" alt="e-commerce, about us"></td>
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/62bf3ba93a3f63ba62745bfd44220ee865d96a2e/0526d/images/demo/ecommerce/ecommerce-design55.png" class="img-fluid rounded work-image" alt="e-commerce, subscription plan"></td>
+    </tr>
+    <tr>
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/cfcf24fed4234f4b6305c0b702073b8f4b7b7bed/103d5/images/demo/ecommerce/ecommerce-design17.png" class="img-fluid rounded work-image" alt="e-commerce, walktrought"></td> 
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/a202289bb3e7fb16bcb4d8f5446a4992f24a0d75/3930b/images/demo/ecommerce/ecommerce-design64.png" class="img-fluid rounded work-image" alt="e-commerce, walktrought"></td>
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/c9445b54215c7a3253fdc54172e77c494904784b/860ca/images/demo/ecommerce/ecommerce-design16.png" class="img-fluid rounded work-image" alt="e-commerce, walktrought"></td>
     </tr>
 </table>
