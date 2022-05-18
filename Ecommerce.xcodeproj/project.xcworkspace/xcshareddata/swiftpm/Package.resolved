@@ -3,10 +3,10 @@
     {
       "identity" : "activelabel.swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/optonaut/ActiveLabel.swift",
+      "location" : "https://github.com/imodeveloperlab/ActiveLabel.swift",
       "state" : {
-        "revision" : "36949c1a69ef8b40574da20c9e24b115f387b1cf",
-        "version" : "1.1.5"
+        "revision" : "ad145ba677be2f8e342033a1cadd8fee4059e017",
+        "version" : "1.1.7"
       }
     },
     {
@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/imodeveloperlab/dskit",
       "state" : {
-        "branch" : "main",
-        "revision" : "eca564caf90df94c4195a57d4e785be02f41fa36"
+        "revision" : "bebcac533cbbc825c8ba0203dd3b3c4bb2ff375f",
+        "version" : "1.0.1"
       }
     },
     {

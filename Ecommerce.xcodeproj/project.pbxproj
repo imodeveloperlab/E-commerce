@@ -821,8 +821,8 @@
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/imodeveloperlab/dskit";
 			requirement = {
-				branch = main;
-				kind = branch;
+				kind = exactVersion;
+				version = 1.0.1;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
