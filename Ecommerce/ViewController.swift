@@ -7,6 +7,7 @@
 
 import UIKit
 import DSKit
+import Branch
 
 open class ViewController: DSViewController {
     
@@ -332,4 +333,13 @@ open class ViewController: DSViewController {
              shippingSection,
              orderSection)
     }
+    
+    func gotoItemOneDetailVC() {
+        self.push(Items1ViewController())
+    }
+    
+    func gotoItemSecondDetailVC() {
+        self.push(Items2ViewController())
+    }
+    
 }
