@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import Branch
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
@@ -17,6 +18,14 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // If using a storyboard, the `window` property will automatically be initialized and attached to the scene.
         // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
         guard let _ = (scene as? UIWindowScene) else { return }
+        
+        // workaround for SceneDelegate continueUserActivity not getting called on cold start
+            if let userActivity = connectionOptions.userActivities.first {
+              BranchScene.shared().scene(scene, continue: userActivity)
+            } else if !connectionOptions.urlContexts.isEmpty {
+              BranchScene.shared().scene(scene, openURLContexts: connectionOptions.urlContexts)
+            }
+        
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {
@@ -46,6 +55,14 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // Use this method to save data, release shared resources, and store enough scene-specific state information
         // to restore the scene back to its current state.
     }
+    
+    func scene(_ scene: UIScene, continue userActivity: NSUserActivity) {
+           BranchScene.shared().scene(scene, continue: userActivity)
+     }
+     
+     func scene(_ scene: UIScene, openURLContexts URLContexts: Set<UIOpenURLContext>) {
+           BranchScene.shared().scene(scene, openURLContexts: URLContexts)
+     }
 
 
 }

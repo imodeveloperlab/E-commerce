@@ -7,12 +7,16 @@
 
 import UIKit
 import DSKit
+import Branch
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        // This version of initSession includes the source UIScene in the callback
+        BranchScene.shared().initSession(launchOptions: launchOptions, registerDeepLinkHandler: { (params, error, scene) in})
         
         DSAppearance.shared.main = ShopAppearance()
 //        DSAppearance.shared.main = BlackToneAppearance()
