@@ -93,7 +93,7 @@ extension ImageGallery2ViewController {
         
         // Image
         var imageViewModel = DSImageVM(imageUrl: url,
-                                       height: .absolute(UIDevice.current.contentAreaHeigh - 100),
+                                       height: .absolute(UIDevice.current.contentAreaHeight - 100),
                                        displayStyle: .default,
                                        contentMode: .scaleAspectFill)
 

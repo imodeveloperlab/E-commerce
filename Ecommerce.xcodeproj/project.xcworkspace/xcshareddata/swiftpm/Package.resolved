@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/imodeveloperlab/dskit",
       "state" : {
-        "revision" : "bebcac533cbbc825c8ba0203dd3b3c4bb2ff375f",
-        "version" : "1.0.1"
+        "revision" : "dcf5bd109b796e33c77b66923f9e2bebbde6720a",
+        "version" : "1.0.3"
       }
     },
     {
@@ -50,8 +50,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/onevcat/Kingfisher",
       "state" : {
-        "revision" : "0c02c46cfdc0656ce74fd0963a75e5000a0b7f23",
-        "version" : "7.1.2"
+        "revision" : "e8625b80c413457b13ea9be75d07f6e9f5830c19",
+        "version" : "7.7.0"
       }
     }
   ],

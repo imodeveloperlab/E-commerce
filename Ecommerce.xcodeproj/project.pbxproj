@@ -822,7 +822,7 @@
 			repositoryURL = "https://github.com/imodeveloperlab/dskit";
 			requirement = {
 				kind = exactVersion;
-				version = 1.0.1;
+				version = 1.0.3;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */

@@ -2,7 +2,6 @@
 <p align="center">
     <img src="https://d33wubrfki0l68.cloudfront.net/ccdd1f46a6a8a919991bc3fc4ef832393ee4d6b2/1db7e/images/app/ecommerce-demo-app.png" width="50%" alt="DSKit"/>
 </p>
-
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-5.5-brightgreen.svg" />
     <a href="https://swift.org/package-manager">

@@ -70,7 +70,7 @@ extension ImageGallery1ViewController {
         let pictures = [p1Image, p2Image, p3Image].map { (url) -> DSViewModel in
             
             DSImageVM(imageUrl: url,
-                      height: .absolute(UIDevice.current.contentAreaHeigh - 100),
+                      height: .absolute(UIDevice.current.contentAreaHeight - 100),
                       displayStyle: .default,
                       contentMode: .scaleAspectFill)
         }

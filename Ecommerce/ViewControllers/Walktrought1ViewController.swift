@@ -73,7 +73,7 @@ extension WalkthroughSimplePage {
         // Page with view models
         var page = DSPageVM(viewModels: [image, space, composer.textViewModel()])
         page.contentInsets = appearance.margins.edgeInsets
-        page.height = .absolute(UIDevice.current.contentAreaHeigh - 80)
+        page.height = .absolute(UIDevice.current.contentAreaHeight - 80)
         
         return page
     }
